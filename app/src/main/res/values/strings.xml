@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fitmaster</string>
+    <string name="title_activity_bottom_navigation_avtivity">BottomNavigationAvtivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

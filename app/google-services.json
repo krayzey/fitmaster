@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "804645524739",
+    "firebase_url": "https://fit-master-71f41.firebaseio.com",
+    "project_id": "fit-master-71f41",
+    "storage_bucket": "fit-master-71f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804645524739:android:fcedb6707ea43112",
+        "android_client_info": {
+          "package_name": "com.krayzey.fitmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804645524739-ecnmapdecm55448b5lioq71c76esv516.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krayzey.fitmaster",
+            "certificate_hash": "05c23618776b0ca3ea2b52614529ccc95326f44f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlV4OBl5rIBlhE0hckBb0ht3NiRPXrfgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804645524739-qbies4vcj152ad047pp0d4mpd7b0udne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
